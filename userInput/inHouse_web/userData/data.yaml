@@ -1,0 +1,54 @@
+windowTitle: inHouse 2024
+a4parent:
+  page1:
+    page1Header:
+      page1HeaderTop:
+        page1HeaderTopLeft: 
+          topLeftImage1: img/image1.png
+        page1HeaderTopRight:
+          topRightImage1: img/image2.png
+      page1HeaderBottom: Exclusive Information from the Todd Walters Home Selling Team 
+    page1Body:
+      page1BodyLeft:
+        page1BodyLeftImage: img/praveen_image.jpg
+        page1BodyLeftSec1:
+          BodyLeftSec1Text1: Praveen Kumar
+          BodyLeftSec1Text2: Contact Info
+          BodyLeftSec1Text3: Call me TODAY for a free consultation. 
+          BodyLeftSec1Text4: <a href="tel:925‑452‑7483">925‑452‑7483</a>
+          BodyLeftSec1Text5: <a href="mailto:praveen@weberealty.com">praveen@weberealty.com</a>
+        page1BodyLeftText1: 'INSIDE:'
+        page1BodyLeftText2: |
+          <ul>
+            <li>7 Habits of Highly Effective People.</li>
+            <li>Three successive stages of increasing maturity.</li>
+            <li> Real Estate Investor Corner </li>
+            <li>Your Referrals Help the Kids! </li>
+          </ul>
+      page1BodyRight:
+        page1BodyRightTopImage: img/image3.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

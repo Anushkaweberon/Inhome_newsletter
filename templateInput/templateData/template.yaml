@@ -1,0 +1,158 @@
+a4parent:
+  type: div
+  className: a4parent
+  css:
+    display: flex
+    flexDirection: row
+    flexWrap: wrap
+  children:
+    page1:
+      type: div
+      className: page
+      css:
+        position: relative
+        left: 0rem
+        top: 0rem
+        minHeight: 11in
+        height: auto
+        margin: 0
+        padding: 0
+        display: flex
+        flexDirection: column
+        justifyContent: space-between
+      children:
+        page1Header:
+          type: div
+          css:
+            display: flex
+            flexDirection: column
+          children:
+            page1HeaderTop:
+              type: div
+              css:
+                display: flex
+                flexWrap: wrap
+                alignItems: center
+                backgroundColor: rgb(217, 217, 217)
+              children:
+                page1HeaderTopLeft:
+                  type: div
+                  css:
+                    display: flex
+                    flexDirection: column
+                  children:
+                    topLeftImage1:
+                      type: img
+                      css:
+                        width: 35rem
+                        height: 1.7in
+                page1HeaderTopRight:
+                  type: div
+                  css:
+                    display: flex
+                    flexDirection: column
+                  children:
+                    topRightImage1:
+                      type: img
+                      css:
+                        width: 2.5rem
+                        height: 1in
+            page1HeaderBottom:
+              type: text
+              css:
+                textAlign: center
+                backgroundColor: rgb(38, 38, 38)
+                fontSize: 1.1rem
+                padding: 0.5rem
+                color: "#fff"
+                fontFamily: IBM
+        page1Body:
+          type: div
+          css:
+            display: flex
+            alignItems: center
+          children:
+            page1BodyLeft:
+              type: div
+              css:
+                display: flex
+                flexDirection: column
+                flex: 1 1 14rem
+                padding: 1rem
+                alignItems: center
+                backgroundColor: rgb(0, 54, 82)
+              children:
+                page1BodyLeftImage:
+                  type: img
+                  className: image
+                  css:
+                    width: 1.5in
+                    height: 1.5in
+                page1BodyLeftSec1:
+                  type: div
+                  css:
+                    display: flex
+                    flexDirection: column
+                    textAlign: center
+                    color: '#fff'
+                    marginBottom: 20px
+                  children:
+                    BodyLeftSec1Text1:
+                      type: text
+                    BodyLeftSec1Text2:
+                      type: text
+                    BodyLeftSec1Text3:
+                      type: text
+                    BodyLeftSec1Text4:
+                      type: text
+                    BodyLeftSec1Text5:
+                      type: text
+                page1BodyLeftText1:
+                  type: text
+                  css:
+                    color: red
+                    fontSize: 2rem
+                    fontWeight: 600
+                page1BodyLeftText2:
+                  type: text
+                  css:
+                    fontSize: 1.1rem
+                    color: '#fff'
+                    fontWeight: 600
+            page1BodyRight:
+              type: div
+              css:
+                display: flex
+                flexDirection: column
+              children:
+                page1BodyRightTopImage:
+                  className: image
+                  type: img
+                  css:
+                    width: 100%
+                    height: 3in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
