@@ -71,16 +71,19 @@ a4parent:
           css:
             display: flex
             alignItems: center
+            flexWrap: wrap
           children:
             page1BodyLeft:
               type: div
               css:
                 display: flex
+                height: 98%
                 flexDirection: column
                 flex: 1 1 14rem
                 padding: 1rem
                 alignItems: center
                 backgroundColor: rgb(0, 54, 82)
+                gap: 0.5rem
               children:
                 page1BodyLeftImage:
                   type: img
@@ -94,6 +97,7 @@ a4parent:
                     display: flex
                     flexDirection: column
                     textAlign: center
+                    gap: 0.3rem
                     color: '#fff'
                     marginBottom: 20px
                   children:
@@ -124,13 +128,20 @@ a4parent:
               css:
                 display: flex
                 flexDirection: column
+                flex: 1 1 7.9in
               children:
                 page1BodyRightTopImage:
                   className: image
                   type: img
                   css:
                     width: 100%
-                    height: 3in
+                    height: 2.3in
+                page1BodyRightText:
+                  type: text
+                  className: page1BodyRightText
+                  css:
+                    padding: 1rem 1.8rem
+                    fontSize: 0.9rem
 
 
 

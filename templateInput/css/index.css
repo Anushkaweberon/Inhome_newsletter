@@ -40,3 +40,10 @@ a{
 ul li{
     list-style-position: outside;
 }
+.page1BodyRightText{
+    -webkit-columns: 2;
+}
+.page1BodyRightText p{
+    margin-top: 20px;
+    text-indent: 0;
+}
