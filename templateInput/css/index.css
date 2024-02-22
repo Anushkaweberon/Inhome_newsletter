@@ -56,6 +56,11 @@ ul li{
 a{
     text-decoration: none;
 }
+#page4BodySec3LeftText1{
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    rotate: -5deg;
+}
 .leftArrow:after{
     content: " ";
   position: absolute;

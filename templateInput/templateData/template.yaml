@@ -516,6 +516,7 @@ a4parent:
                         border: 3px solid brown
                         fontSize: 2rem
                         fontWeight: 600
+                        padding: 0.5rem
                     page4BodySec3LeftImage:
                       type: img
                       className: image
