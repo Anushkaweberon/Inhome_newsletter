@@ -27,9 +27,9 @@ a{
 .page{
     display: flex;
     flex-direction: column;
-    min-height: 11in;
+    min-height: 9in;
     width: 8.5in;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     border: 1px solid;
 }
 .image{
@@ -55,4 +55,67 @@ ul li{
 }
 a{
     text-decoration: none;
+}
+.leftArrow:after{
+    content: " ";
+  position: absolute;
+  left: -15px;
+  top: 15px;
+  border-top: 60px solid transparent;
+  border-right: 15px solid black;
+  border-left: none;
+  border-bottom: 60px solid transparent;
+}
+.rightArrow:after {
+    content: " ";
+    position: absolute;
+    right: -15px;
+    top: 15px;
+    border-top: 60px solid transparent;
+    border-right: none;
+    border-left: 15px solid black;
+    border-bottom: 60px solid transparent;
+  }
+@media all and (max-width: 8.5in){
+    .page{
+        width: 100%;
+        border: none;
+    }
+    .a4parent{
+      width: 100%;
+    }    
+}
+@media all and (max-width: 470px){
+    .topLeftImage1{
+        display: none;
+    }
+    .topLeftText2{
+        display: flex;
+    }
+    .text{
+        -webkit-columns: 1;
+    }
+}
+@media all and (max-width: 690px){
+    #page4HeaderImage{
+        display: none;
+    }
+    #page5HeaderImage{
+        display: none;
+    }
+    #page6HeaderImage{
+        display: none;
+    }
+    #page5HeaderText{
+        padding: 2rem;
+        font-size: 2rem;
+    }
+}
+@media all and (max-width: 590px){
+    .leftArrow:after{
+        border: none;
+    }
+    .rightArrow:after{
+        border: none;
+    }
 }

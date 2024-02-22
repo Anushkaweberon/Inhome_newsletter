@@ -6,6 +6,7 @@ a4parent:
         page1HeaderTopLeft: 
           topLeftText: WINTER 2024
           topLeftImage1: img/image1.png
+          topLeftText2: <span style='font-weight:600; color:#00283E'>IN</span> HOUSE
         page1HeaderTopRight: img/image2.png
       page1HeaderBottom: Exclusive Information from the Todd Walters Home Selling Team 
     page1Body:
@@ -157,7 +158,106 @@ a4parent:
     page5Header:
       page5HeaderImage: img/headerHouse.png
       page5HeaderText: ADDITIONAL INVESTMENT OPPORTUNITIES!! 
-            
+    page5Body:
+      page5BodySec1:
+        page5BodySec1Left:
+          page5BodySec1LeftIamge: img/house5.jpeg
+          page5BodySec1LeftText: |
+            <p style='font-size:1.2rem'><b>Corporate Fire Sale!!! </b></p>
+            <p style='font-size:1.2rem'>Buford, GA—5 bedrooms 4.5 bath </p>
+        page5BodySec1Right:
+          page5BodySec1RightIamge: img/house6.jpeg
+          page5BodySec1RightText: |
+            <p style='font-size:1.3rem'><b>Lake Bargain! Guaranteed <br>Rental Income!  </b></p>
+            <p style='font-size:1rem'>Milledgeville, GA—4 bedroom 2 bath and <br>Private Dock! </p>
+      page5BodySec2:
+        page5BodySec2Left:
+          page5BodySec2LeftImage: img/house7.jpeg
+          page5BodySec2LeftText: |
+            <p style='font-size:1.2rem'><b>NO Money Down!!!!  </b></p>
+            <p style='font-size:1.2rem'>Marietta, GA—3 bedrooms 2.5 bath </p>
+        page5BodySec2Right: |
+          <p style='font-size:1.2rem;'><b>Join LIVE Webinar <br>Rental Income GUARANTEED!!!! </b></p>
+          <p style='font-size:1.1rem;'>Listen in on this exclusive webinar and learn<br> how to <b>guarantee</b> rental income on your<br> investments!! </p>
+          <p style='font-size:1.2rem;'>Thursday, February XX, 2020</p>
+          <p style='font-size:1.2rem;'>You Don’t Want to Miss THIS!!<br> Join <b>NOW</b> at<br> www.rentalguaranteed.com </p>
+      page5BodySec3:
+        page5BodySec3Left: |
+          <p style='font-size:1.2rem;'><b>Come to LIVE Seminar <br>Make an EXTRA $100,000 from  </b></p>
+          <p style='font-size:1.1rem;'><b>Investment Properties!!!!</b><br> Register <b>NOW</b> at<br> www.cashflow.com </p>
+          <p style='font-size:1.2rem;'>Tuesday, February XX, 2020</p>
+          <p style='font-size:1.2rem;'>Marriott Marquis at 9am  </p>
+        page5BodySec3Right:
+          page5BodySec3RightImage: img/house8.jpeg
+          page5BodySec3RightText: |
+            <p style='font-size:1.2rem'><b>Small Investment!! Large Cash <br>Flow!!  </b></p>
+            <p style='font-size:1.2rem'>Atlanta, GA—3 bedrooms 2 bath </p>
+  page6:
+    page6Header:
+      page6HeaderImage: img/headerHouse.png
+      page6HeaderText: What our investment Clients have to say... 
+    page6Body:
+      page6BodySec1:
+        page6BodySec1Image: img/house9.jpeg
+        page6BodySec1Text: |
+          “I was extremely impressed by Your Home Sold Guaranteed Realty in their approach to investments. I was able to surprise my whole family with a paid vacation just from my rental income alone! I lived in the home for 9 months and brought tenants in there a week after I moved out! “- Andrew Waldrop 
+      page6BodySec2:
+        page6BodySec2Text: |
+          “We were looking for ways to save for our kids college fund. It was really difficult without taking from our existing monthly budget. We attended one of Todd Walters Investment Seminars and he told us exactly how to create passive income through real estate. We now own 3 rental properties that produce the extra income we can throw towards our kids college fund. Thank you Todd!”- The Espinosa Family 
+        page6BodySec2Image: img/house10.jpeg
+      page6BodySec3:
+        page6BodySec3Image: img/house11.jpeg
+        page6BodySec3Text: |
+          "We retired and did not want to only rely on our 401K. After seeing a newsletter from Your Home Sold Guaranteed Realty about owning Rental Properties we decided to give them a call. They helped us find the best home with the most rental potential! We are living the lifestyle that we have always dreamed of living thanks to our abundance of rental income." - Mr. and Mrs. Wright 
+      page6BodySec4:
+        page6BodySec4Text: |
+          "Mike and I were looking at how we could buy a 2nd home near our parents and be able to afford it. With our existing mortgage we weren’t quite sure how we could pull it off. After attending a Webinar with Todd Walters on how to use your vacation home and let other people pay for it, we were in! We now own 2 homes and our 2nd home is almost paid for by being a vacation home for other families. Plus we get to keep those weeks to visit our parents open for us!" - Kate and Mike Wheeler 
+        page6BodySec4Image: img/house12.jpeg
+  page7:
+    page7Header:
+      page7HeaderText: Your Referrals Help the Kids! 
+      page7HeaderRight: 
+        page7HeaderText: BENEFITING 
+        page7HeaderImage: img/page7HeaderImg.jpeg
+    page7Body:
+      page7BodySec1:
+        page7BodySec1Right:
+          page7BodySec1RightText: |
+            As you may have heard, <b>Children’s Hospital</b> is front and center in the fight against nasty diseases that destroy or cut short the lives of Children. We are thankful to have such a wonderful facility close by, doing such great work to help heal and save young people. 
+            So even as we are eager to enjoy life, others are simply hoping they can be here to live it. This is why we here at Your Home Sold Guaranteed have resolved to do what we can to help. 
+            For homes we sell this year, we are donating a portion of our income to Children’s Hospital. 
+            Our goal is to raise another $50,000 (just like we did last year) to help them in their quest to 
+            Heal, Save, Cure and Comfort Children under their care. 
+          page7BodySec1RightImage: img/child.jpeg
+        page7BodySec1Left:
+          page7BodySec1LeftText1: |
+            <p style='color:#FF0000'><b>This is where you can help! </b></p>
+            <p><b>Who do you know considering making a move you could refer to my award-winning real estate sales team? </b></p>
+            <p><b>For anyone considering a move that we help, you can rest assured that not only will they get the award winning service we are known for, but that a solid portion of the income we receive from the transaction will go toward a very worthy cause. </b></p>
+            <p style='margin-top:25px;'><b>I want to make it easy for you to refer your friends, neighbors, associates or family members considering making a move, so you can pass along our business card to them, I have enclosed a couple here for that purpose. Of course you can always call me direct as well at <a href='tel:xxx-xxx-xxx'>xxx-xxx-xxx.</a> </b></p>
+            <p>You and your referrals mean more than ever to my team and I. As we move forward in this new season, please know we are extremely thankful for you and your being a special part of our business. With all my appreciation, </p>
+          page7BodySec1LeftImage: img/praveen_signature.png
+          page7BodySec1LeftText2: |
+            <p>Praveen Kumar</p>
+            <p>Your Home Sold Guaranteed </p>
+      page7BodySec2:
+        page7BodySec2Text1: <b>Find Out What Homes In Your Neighborhood Are Selling For...</b>
+        page7BodySec2Text2: FREE SERVICE FOR ATLANTA HOMEOWNERS
+        page7BodySec2Text3: |
+          <p style='margin-top:0;'>You can receive a free computerized printout of recent home sales and current listings in your area - mailed to you at NO cost or obligation. </p>
+          <p>You don’t have to talk to anyone just call our 24/hr hotline below and leave a message indicating which streets you would like to have information on. You will receive by mail, a computerized printout on each active property for sale or recently sold property, including the address and a photo of the home, a description of key features, along with the list price!</p>
+          <p>This information will give you a good idea of what your home might sell for if you were to put it up for sale in today’s market. </p>
+        page7BodySec2Footer:
+          page7BodySec2FooterLeftText: |
+            <p>TO RECEIVE A FREE COMPUTERIZED AREA HOMES SALES REPORT, CALL: </p>
+            <p>24/HR RECORDED MESSAGE] 1-800-774-3468 ID # 1041 WWW.YOURAREAHOUSEVALUES.COM</p>
+          page7BodySec2FooterRightImage: img/image2.png
+
+        
+
+
+
+
 
 
 
