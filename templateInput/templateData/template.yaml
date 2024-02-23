@@ -186,11 +186,12 @@ a4parent:
           className: text
           css:  
             fontSize: 1rem
-            padding: 1.6rem
+            padding: 0.7rem 1.6rem
             position: relative
           children: 
             page2BodyText:
                 type: text
+                className: text2
             page2BGImage:
               type: img
               className: image
@@ -228,13 +229,13 @@ a4parent:
             display: flex
             flexWrap: wrap
             gap: 2rem
-            padding: 1rem
+            padding: 0.5rem 1rem
           children: 
             page3BodyLeft:
               type: div
               css:
                 position: relative
-                flex: 1 1 3.8in
+                flex: 1 1 3.9in
               children:
                 page3BodyLeftText:
                   type: text
@@ -255,7 +256,7 @@ a4parent:
               css:
                 display: flex
                 flexDirection: column
-                flex: 1 1 4in
+                flex: 1 1 3.9in
               children: 
                 page3BodyRightSec1: 
                   type: text
@@ -267,7 +268,7 @@ a4parent:
                   css:
                     display: flex
                     gap: 0.5rem
-                    marginTop: 80px
+                    marginTop: 34px
                   children: 
                     RightSec2Text:
                       type: text
@@ -353,7 +354,7 @@ a4parent:
             flexDirection: column
             alignItems: center
             padding: 2rem
-            gap: 2rem
+            gap: 3rem
           children:
             page4BodySec1:
               type: div
@@ -508,7 +509,7 @@ a4parent:
                     flexDirection: column
                     alignItems: center
                     flex: 1 1 4.3in
-                    gap: 1rem
+                    gap: 1.5rem
                   children: 
                     page4BodySec3LeftText1:
                       type: text
@@ -530,6 +531,7 @@ a4parent:
                         display: flex
                         flexDirection: column
                         textAlign: center
+                        gap: 0.04rem
                       children: 
                         sec3LeftText1:
                           type: text
@@ -624,9 +626,10 @@ a4parent:
           css:
             display: flex
             flexDirection: column
-            gap: 1rem
+            gap: 1.5rem
             justifyContent: center
             alignItems: center
+            padding: 2.5rem 1rem 2rem 1rem
             textAlign: center
           children: 
             page5BodySec1:
@@ -815,10 +818,10 @@ a4parent:
           css:
             display: flex
             flexDirection: column
-            gap: 1rem
+            gap: 2rem
             alignItems: center
             justifyContent: center
-            padding: 0 1rem
+            padding: 2.14rem 1rem
             textAlign: center
           children:
             page6BodySec1:
@@ -844,6 +847,7 @@ a4parent:
                     border: '2px solid #024467'
                     padding: 1rem
                     flex: 1in
+                    lineHeight: 1.3
                     position: relative
             page6BodySec2:
               type: div
@@ -860,6 +864,7 @@ a4parent:
                   css:  
                     border: '2px solid #024467'
                     padding: 1rem
+                    lineHeight: 1.3
                     flex: 1in
                     position: relative
                 page6BodySec2Image:
@@ -891,6 +896,7 @@ a4parent:
                   css:  
                     border: '2px solid #024467'
                     padding: 1rem
+                    lineHeight: 1.3
                     flex: 1in
                     position: relative  
             page6BodySec4:
@@ -908,6 +914,7 @@ a4parent:
                   css:  
                     border: '2px solid #024467'
                     padding: 1rem
+                    lineHeight: 1.3
                     flex: 1in
                     position: relative
                 page6BodySec4Image:
@@ -944,7 +951,7 @@ a4parent:
               type: text
               css:
                 textAlign: center
-                padding: 1.5rem 1rem
+                padding: 2rem 1rem
                 background: 'linear-gradient(#00283E, #89B5D8)'
                 fontSize: 2rem
                 flex: 1 1 4in
@@ -976,14 +983,13 @@ a4parent:
             flexDirection: column
             justifyContent: center
             alignItems: center
-            padding: 0 20px
+            padding: 2rem 1rem
           children:   
             page7BodySec1:
               type: div
               css:
                 display: flex
                 flexWrap: wrap
-                alignItems: center
                 justifyContent: center
                 gap: 1.5rem
                 padding: 10px 1.5rem
@@ -1002,14 +1008,14 @@ a4parent:
                     page7BodySec1RightText:
                       type: text
                       css:
-                        fontSize: 1rem
+                        fontSize: 1.1rem
                         textIndent: 0
                     page7BodySec1RightImage: 
                       type: img
                       className: image
                       css:
-                        width: 3in
-                        height: 3in
+                        width: 3.5in
+                        height: 3.5in
                 page7BodySec1Left:
                   type: div
                   css:
@@ -1038,7 +1044,7 @@ a4parent:
               css:
                 display: flex
                 flexDirection: column
-                padding: 5px 20px 20px 20px
+                padding: 1rem
                 color: '#fff'
                 backgroundColor: '#004467'
                 marginTop: 20px
@@ -1050,14 +1056,14 @@ a4parent:
                 page7BodySec2Text2:
                   type: text
                   css:
-                    fontSize: 1.3rem
+                    fontSize: 1.4rem
                     fontWeight: 600
                 page7BodySec2Text3:
                   type: text
                   className: text2
                   css:
                     opacity: 0.9
-                    fontSize: 1.1rem
+                    fontSize: 1.2rem
                 page7BodySec2Footer:
                   type: div
                   css:
@@ -1071,7 +1077,7 @@ a4parent:
                       type: text
                       css:
                         flex: 1 1 3in
-                        fontSize: 1rem
+                        fontSize: 1.1rem
                         fontWeight: 500
                     page7BodySec2FooterRightImage:
                       type: img
