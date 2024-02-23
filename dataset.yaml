@@ -5,3 +5,11 @@ inHouse_web_2024:
   ogTitle: ""
   ogDescription: ""
   ogImage: ""
+
+inHouse_print_2024:
+  template: "templateInput"
+  userdata: "userInput/inHouse_print"
+  medium: "PRINT"
+  ogTitle: ""
+  ogDescription: ""
+  ogImage: ""
