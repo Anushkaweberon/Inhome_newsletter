@@ -353,7 +353,7 @@ a4parent:
             display: flex
             flexDirection: column
             alignItems: center
-            padding: 2rem
+            padding: 2rem 2rem 3rem
             gap: 2.4rem
           children:
             page4BodySec1:
@@ -629,7 +629,7 @@ a4parent:
             gap: 1rem
             justifyContent: center
             alignItems: center
-            padding: 1.53rem 1rem
+            padding: 2rem 1rem 3rem
             textAlign: center
           children: 
             page5BodySec1:
@@ -818,10 +818,10 @@ a4parent:
           css:
             display: flex
             flexDirection: column
-            gap: 1.908rem
+            gap: 2.2rem
             alignItems: center
             justifyContent: center
-            padding: 1rem
+            padding: 1.5rem 1rem 2rem
             textAlign: center
           children:
             page6BodySec1:
