@@ -629,7 +629,7 @@ a4parent:
             gap: 1rem
             justifyContent: center
             alignItems: center
-            padding: 2rem 1rem 3rem
+            padding: 2rem 1rem 3.6rem
             textAlign: center
           children: 
             page5BodySec1:
@@ -821,7 +821,7 @@ a4parent:
             gap: 2.2rem
             alignItems: center
             justifyContent: center
-            padding: 1.5rem 1rem 2rem
+            padding: 1.5rem 1rem 1.8rem
             textAlign: center
           children:
             page6BodySec1:
@@ -1015,7 +1015,7 @@ a4parent:
                       className: image
                       css:
                         width: 3.5in
-                        height: 3.49in
+                        height: 3in
                 page7BodySec1Left:
                   type: div
                   css:
