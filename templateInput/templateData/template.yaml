@@ -354,7 +354,7 @@ a4parent:
             flexDirection: column
             alignItems: center
             padding: 2rem
-            gap: 2.1rem
+            gap: 2.4rem
           children:
             page4BodySec1:
               type: div
