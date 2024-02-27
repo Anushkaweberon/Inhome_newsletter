@@ -730,7 +730,7 @@ a4parent:
                     padding: 0.5rem 1rem
                     position: relative
                     top: -30px
-                    left: -6px
+                    left: -30px
                     boxShadow: rgba(0, 0, 0, 0.24) 0px 3px 8px
                     lineHeight: 1.1
             page5BodySec3:

@@ -27,7 +27,7 @@ a4parent:
             <li>Your Referrals Help the Kids! </li>
           </ul>
       page1BodyRight:
-        page1BodyRightTopImage: img/image3.png
+        page1BodyRightTopImage: img/image3.jpg
         page1BodyRightText: |
           <p style='margin-top:0'>Not too long ago I heard one of my favorite leaders say these words: “Direction, not intention, determines your destination”. That stuck with me. I don’t know about you but seems daily I battle keeping my mind and feet on a path toward productivity vs just activity. You may have heard me say in past 
           newsletters that<b> Your Routine = Your Results.</b> For me to ensure the right direction of being productive and valuing others each day I need to examine my habits. As you know, we can create and establish effective and productive habits but also develop bad habits. </p> 
@@ -40,7 +40,7 @@ a4parent:
           <p>continued on next page.. </p>
         page1BGImage: img/page1BgImage.png
   page2:
-    page2HeaderImage: img/image3.png
+    page2HeaderImage: img/image3.jpg
     page2Body:
       page2BodyText: |
         <p style='margin-top:0'>However, as they say, old habits are hard to break, so the first step is to understand where success really starts: how you think. How much time do you sit and just – think? Really analyze, even meditate on where you are and where you want to go? Tough to break a habit without knowing about it or understanding how/why you do it. </p>
@@ -64,7 +64,7 @@ a4parent:
         <p>The order is important; after completing items in quadrant I, we should spend most of our time on II, but many people spend too much time in III and IV. The calls to delegate and eliminate are effective reminders of their relative priority. </p>
       page2BGImage: img/page2BgImage.jpeg
   page3:
-    page3HeaderImage: img/image3.png
+    page3HeaderImage: img/image3.jpg
     page3Body:
       page3BodyLeft:
         page3BodyLeftText: |
@@ -102,10 +102,10 @@ a4parent:
             <p>• Make it easy for our everyone in the company to deliver second mile service! </p>
             <p>• Be exceptional stewards of revenue for Shareholders. </p>
             <p>• Walk the walk and talk the talk of going the extra mile in the Community. </p>
-        page3BodyRightSec3Image: img/goServeBig.jpeg
+        page3BodyRightSec3Image: img/goServeBig.png
   page4:
     page4Header:
-      page4HeaderImage: img/headerHouse.png
+      page4HeaderImage: img/headerHouse.jpg
       page4HeaderText:
         page4HeaderText1: "Here's this month’s <span style='color:#FF0000'>BEST BUYS</span> :"
         page4HeaderText2: THE VIP CLIENT – Real Estate Investor Corner 
@@ -113,16 +113,16 @@ a4parent:
     page4Body:
       page4BodySec1:
         page4BodySec1Left:
-          page4BodySec1LeftImage: img/house1.jpeg
+          page4BodySec1LeftImage: img/house1.jpg
           leftImagePrice: $230,000 
           page4BodySec1LeftText: <b>Small investment! Positive cash flow!</b> <br>Buford, GA - 4 bedrooms 3 baths <br>Special investor financing 
         page4BodySec1Right:
-          page4BodySec1RightImage: img/house2.jpeg
+          page4BodySec1RightImage: img/house2.jpg
           rightImagePrice: $315,000 
           page4BodySec1RightText: <b>Small investment! Positive cash flow! </b> <br>Sandy Springs, GA - 4 bedrooms 3 baths<br> Call for financing terms 
       page4BodySec2:
         page4BodySec2Left:
-          page4BodySec2LeftImage: img/house3.jpeg
+          page4BodySec2LeftImage: img/house3.jpg
           leftImagePrice: $389,900 
           page4BodySec2LeftText: <b>Small investment! Positive cash flow!</b> <br>Buford, GA - 5 bedrooms 4 baths <br>Full Finished Basement <br>Call for financing terms 
         page4BodySec2Right:
@@ -135,7 +135,7 @@ a4parent:
       page4BodySec3:
         page4BodySec3Left: 
           page4BodySec3LeftText1: CASH FLOW CABINS 
-          page4BodySec3LeftImage: img/house4.jpeg
+          page4BodySec3LeftImage: img/house4.jpg
           page4BodySec3LeftText: 
             sec3LeftText1: Done For You. Turn Key Real Estate Investment Opportunities in the Great Smoky Mountains! 
             sec3LeftText2: 'Guaranteed Cash Flow or We Pay You the Difference!* '
@@ -156,23 +156,23 @@ a4parent:
             page4BodySec3RightFooterImage: img/praveen_signature.png
   page5:
     page5Header:
-      page5HeaderImage: img/headerHouse.png
+      page5HeaderImage: img/headerHouse.jpg
       page5HeaderText: ADDITIONAL INVESTMENT OPPORTUNITIES!! 
     page5Body:
       page5BodySec1:
         page5BodySec1Left:
-          page5BodySec1LeftIamge: img/house5.jpeg
+          page5BodySec1LeftIamge: img/house5.jpg
           page5BodySec1LeftText: |
             <p style='font-size:1.2rem'><b>Corporate Fire Sale!!! </b></p>
             <p style='font-size:1.2rem'>Buford, GA—5 bedrooms 4.5 bath </p>
         page5BodySec1Right:
-          page5BodySec1RightIamge: img/house6.jpeg
+          page5BodySec1RightIamge: img/house6.jpg
           page5BodySec1RightText: |
             <p style='font-size:1.3rem'><b>Lake Bargain! Guaranteed <br>Rental Income!  </b></p>
             <p style='font-size:1rem'>Milledgeville, GA—4 bedroom 2 bath and <br>Private Dock! </p>
       page5BodySec2:
         page5BodySec2Left:
-          page5BodySec2LeftImage: img/house7.jpeg
+          page5BodySec2LeftImage: img/house7.jpg
           page5BodySec2LeftText: |
             <p style='font-size:1.2rem'><b>NO Money Down!!!!  </b></p>
             <p style='font-size:1.2rem'>Marietta, GA—3 bedrooms 2.5 bath </p>
@@ -188,23 +188,23 @@ a4parent:
           <p style='font-size:1.2rem;'>Tuesday, February XX, 2020</p>
           <p style='font-size:1.2rem;'>Marriott Marquis at 9am  </p>
         page5BodySec3Right:
-          page5BodySec3RightImage: img/house8.jpeg
+          page5BodySec3RightImage: img/house8.jpg
           page5BodySec3RightText: |
             <p style='font-size:1.2rem'><b>Small Investment!! Large Cash <br>Flow!!  </b></p>
             <p style='font-size:1.2rem'>Atlanta, GA—3 bedrooms 2 bath </p>
   page6:
     page6Header:
-      page6HeaderImage: img/headerHouse.png
+      page6HeaderImage: img/headerHouse.jpg
       page6HeaderText: What our investment Clients have to say... 
     page6Body:
       page6BodySec1:
-        page6BodySec1Image: img/house9.jpeg
+        page6BodySec1Image: img/house9.jpg
         page6BodySec1Text: |
           “I was extremely impressed by Your Home Sold Guaranteed Realty in their approach to investments. I was able to surprise my whole family with a paid vacation just from my rental income alone! I lived in the home for 9 months and brought tenants in there a week after I moved out! “- Andrew Waldrop 
       page6BodySec2:
         page6BodySec2Text: |
           “We were looking for ways to save for our kids college fund. It was really difficult without taking from our existing monthly budget. We attended one of Todd Walters Investment Seminars and he told us exactly how to create passive income through real estate. We now own 3 rental properties that produce the extra income we can throw towards our kids college fund. Thank you Todd!”- The Espinosa Family 
-        page6BodySec2Image: img/house10.jpeg
+        page6BodySec2Image: img/house10.jpg
       page6BodySec3:
         page6BodySec3Image: img/house11.jpeg
         page6BodySec3Text: |
@@ -212,7 +212,7 @@ a4parent:
       page6BodySec4:
         page6BodySec4Text: |
           "Mike and I were looking at how we could buy a 2nd home near our parents and be able to afford it. With our existing mortgage we weren’t quite sure how we could pull it off. After attending a Webinar with Todd Walters on how to use your vacation home and let other people pay for it, we were in! We now own 2 homes and our 2nd home is almost paid for by being a vacation home for other families. Plus we get to keep those weeks to visit our parents open for us!" - Kate and Mike Wheeler 
-        page6BodySec4Image: img/house12.jpeg
+        page6BodySec4Image: img/house12.jpg
   page7:
     page7Header:
       page7HeaderText: Your Referrals Help the Kids! 
@@ -228,7 +228,7 @@ a4parent:
             For homes we sell this year, we are donating a portion of our income to Children’s Hospital. 
             Our goal is to raise another $50,000 (just like we did last year) to help them in their quest to 
             Heal, Save, Cure and Comfort Children under their care. 
-          page7BodySec1RightImage: img/child.jpeg
+          page7BodySec1RightImage: img/child.jpg
         page7BodySec1Left:
           page7BodySec1LeftText1: |
             <p style='color:#FF0000'><b>This is where you can help! </b></p>
