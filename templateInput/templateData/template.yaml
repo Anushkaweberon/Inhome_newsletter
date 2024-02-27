@@ -19,7 +19,6 @@ a4parent:
         padding: 0
         display: flex
         flexDirection: column
-        justifyContent: space-between
       children:
         page1Header:
           type: div
@@ -174,7 +173,6 @@ a4parent:
         padding: 0
         display: flex
         flexDirection: column
-        justifyContent: space-between
       children:
         page2HeaderImage:
           type: img
