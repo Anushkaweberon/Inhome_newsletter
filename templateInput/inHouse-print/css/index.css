@@ -41,17 +41,13 @@ ul li{
     list-style-position: outside;
     margin-top: 0.8rem;
 }
-.page1HeaderBottom{
-    font-size: 1.5rem;
-}
-.page1BodyLeftSec1{font-size: 1.1rem;}
 .page1BodyRightText{
     -webkit-columns: 2;
-    padding: 2rem;
-    font-size: 1.2rem;
+    padding: 0.98rem 1.8rem;
+    font-size: 1rem;
 }
 .page1BodyRightText p{
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .text{
     -webkit-columns: 2;
@@ -173,13 +169,11 @@ a{
     .page{
         justify-content: start;
         max-height: 11in;
-        width: 8.5in;
-        border: none;
+        width: 8.5in
     }
-    /* .page1HeaderBottom{font-size: 1.5rem;}
-    .page1BodyRightText{font-size: 1.2rem;}
-    .page1BodyRightText p{margin-top: 13.5px;} */
-    /*#page2BodyText{font-size: 0.9rem;}
+    .page1BodyRightText{font-size: 0.95rem;}
+    .page1BodyRightText p{margin-top: 13.5px;}
+    #page2BodyText{font-size: 0.9rem;}
     #page3BodyRightSec2{margin-top: 10px;}
     #page3BodyLeftText p{ margin-top: 3px;}
     #page3BodyRightSec1{ font-size: 0.95rem;}
@@ -200,5 +194,5 @@ a{
     #page7BodySec1RightText{font-size: 0.9rem}
     #page7BodySec1Right{gap: 1rem}
     #page7BodySec1LeftText1{font-size: 0.9rem}
-    #page7BodySec1LeftText2{font-size: 0.9rem;} */
+    #page7BodySec1LeftText2{font-size: 0.9rem;}
 }
