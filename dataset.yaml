@@ -1,5 +1,5 @@
 inHouse_web_2024:
-  template: "templateInput"
+  template: "templateInput/inHouse-web"
   userdata: "userInput/inHouse_web"
   medium: "WEB"
   ogTitle: ""
@@ -7,7 +7,7 @@ inHouse_web_2024:
   ogImage: ""
 
 inHouse_print_2024:
-  template: "templateInput"
+  template: "templateInput/inHouse-print"
   userdata: "userInput/inHouse_print"
   medium: "PRINT"
   ogTitle: ""
