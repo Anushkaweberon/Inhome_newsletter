@@ -105,7 +105,7 @@ tabloid:
         page3BodyRightSec3Image: img/goServeBig.png
   page4:
     page4Header:
-      page4HeaderImage: img/headerHouse.jpg
+      page4HeaderImage: img/headerHouse.png
       page4HeaderText:
         page4HeaderText1: "Here's this month’s <span style='color:#FF0000'>BEST BUYS</span> :"
         page4HeaderText2: THE VIP CLIENT – Real Estate Investor Corner 
@@ -156,45 +156,45 @@ tabloid:
             page4BodySec3RightFooterImage: img/praveen_signature.png
   page5:
     page5Header:
-      page5HeaderImage: img/headerHouse.jpg
+      page5HeaderImage: img/headerHouse.png
       page5HeaderText: ADDITIONAL INVESTMENT OPPORTUNITIES!! 
     page5Body:
       page5BodySec1:
         page5BodySec1Left:
           page5BodySec1LeftIamge: img/house5.jpg
           page5BodySec1LeftText: |
-            <p style='font-size:1.2rem'><b>Corporate Fire Sale!!! </b></p>
-            <p style='font-size:1.2rem'>Buford, GA—5 bedrooms 4.5 bath </p>
+            <p ><b>Corporate Fire Sale!!! </b></p>
+            <p >Buford, GA—5 bedrooms 4.5 bath </p>
         page5BodySec1Right:
           page5BodySec1RightIamge: img/house6.jpg
           page5BodySec1RightText: |
-            <p style='font-size:1.3rem'><b>Lake Bargain! Guaranteed <br>Rental Income!  </b></p>
-            <p style='font-size:1rem'>Milledgeville, GA—4 bedroom 2 bath and <br>Private Dock! </p>
+            <p ><b>Lake Bargain! Guaranteed <br>Rental Income!  </b></p>
+            <p >Milledgeville, GA—4 bedroom 2 bath and <br>Private Dock! </p>
       page5BodySec2:
         page5BodySec2Left:
           page5BodySec2LeftImage: img/house7.jpg
           page5BodySec2LeftText: |
-            <p style='font-size:1.2rem'><b>NO Money Down!!!!  </b></p>
-            <p style='font-size:1.2rem'>Marietta, GA—3 bedrooms 2.5 bath </p>
+            <p ><b>NO Money Down!!!!  </b></p>
+            <p >Marietta, GA—3 bedrooms 2.5 bath </p>
         page5BodySec2Right: |
-          <p style='font-size:1.2rem;'><b>Join LIVE Webinar <br>Rental Income GUARANTEED!!!! </b></p>
-          <p style='font-size:1.1rem;'>Listen in on this exclusive webinar and learn<br> how to <b>guarantee</b> rental income on your<br> investments!! </p>
-          <p style='font-size:1.2rem;'>Thursday, February XX, 2020</p>
-          <p style='font-size:1.2rem;'>You Don’t Want to Miss THIS!!<br> Join <b>NOW</b> at<br> www.rentalguaranteed.com </p>
+          <p ><b>Join LIVE Webinar <br>Rental Income GUARANTEED!!!! </b></p>
+          <p >Listen in on this exclusive webinar and learn<br> how to <b>guarantee</b> rental income on your<br> investments!! </p>
+          <p >Thursday, February XX, 2020</p>
+          <p >You Don’t Want to Miss THIS!!<br> Join <b>NOW</b> at<br> www.rentalguaranteed.com </p>
       page5BodySec3:
         page5BodySec3Left: |
-          <p style='font-size:1.2rem;'><b>Come to LIVE Seminar <br>Make an EXTRA $100,000 from  </b></p>
-          <p style='font-size:1.1rem;'><b>Investment Properties!!!!</b><br> Register <b>NOW</b> at<br> www.cashflow.com </p>
-          <p style='font-size:1.2rem;'>Tuesday, February XX, 2020</p>
-          <p style='font-size:1.2rem;'>Marriott Marquis at 9am  </p>
+          <p><b>Come to LIVE Seminar <br>Make an EXTRA $100,000 from  </b></p>
+          <p><b>Investment Properties!!!!</b><br> Register <b>NOW</b> at<br> www.cashflow.com </p>
+          <p>Tuesday, February XX, 2020</p>
+          <p>Marriott Marquis at 9am  </p>
         page5BodySec3Right:
           page5BodySec3RightImage: img/house8.jpg
           page5BodySec3RightText: |
-            <p style='font-size:1.2rem'><b>Small Investment!! Large Cash <br>Flow!!  </b></p>
-            <p style='font-size:1.2rem'>Atlanta, GA—3 bedrooms 2 bath </p>
+            <p ><b>Small Investment!! Large Cash <br>Flow!!  </b></p>
+            <p >Atlanta, GA—3 bedrooms 2 bath </p>
   page6:
     page6Header:
-      page6HeaderImage: img/headerHouse.jpg
+      page6HeaderImage: img/headerHouse.png
       page6HeaderText: What our investment Clients have to say... 
     page6Body:
       page6BodySec1:

@@ -105,7 +105,7 @@ a4parent:
         page3BodyRightSec3Image: img/goServeBig.png
   page4:
     page4Header:
-      page4HeaderImage: img/headerHouse.jpg
+      page4HeaderImage: img/headerHouse.png
       page4HeaderText:
         page4HeaderText1: "Here's this month’s <span style='color:#FF0000'>BEST BUYS</span> :"
         page4HeaderText2: THE VIP CLIENT – Real Estate Investor Corner 
@@ -156,7 +156,7 @@ a4parent:
             page4BodySec3RightFooterImage: img/praveen_signature.png
   page5:
     page5Header:
-      page5HeaderImage: img/headerHouse.jpg
+      page5HeaderImage: img/headerHouse.png
       page5HeaderText: ADDITIONAL INVESTMENT OPPORTUNITIES!! 
     page5Body:
       page5BodySec1:
@@ -194,7 +194,7 @@ a4parent:
             <p style='font-size:1.2rem'>Atlanta, GA—3 bedrooms 2 bath </p>
   page6:
     page6Header:
-      page6HeaderImage: img/headerHouse.jpg
+      page6HeaderImage: img/headerHouse.png
       page6HeaderText: What our investment Clients have to say... 
     page6Body:
       page6BodySec1:
