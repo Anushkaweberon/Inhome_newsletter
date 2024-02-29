@@ -1,4 +1,4 @@
-tabloid:
+tabloidParent:
   type: div
   className: tabloid
   css:
@@ -187,7 +187,7 @@ tabloid:
           children: 
             page2BodyText:
                 type: text
-                className: text2
+                className: page2BodyText
             page2BGImage:
               type: img
               className: image
@@ -235,7 +235,7 @@ tabloid:
               children:
                 page3BodyLeftText:
                   type: text
-                  className: text2
+                  className: page3BodyLeftText
                 page3BGImage:
                   type: img
                   css:
@@ -254,9 +254,10 @@ tabloid:
               children: 
                 page3BodyRightSec1: 
                   type: text
-                  className: text2
+                  className: page3BodyRightSec1
                 page3BodyRightSec2:
                   type: div
+                  className: page3BodyRightSec2
                   css:
                     display: flex
                     gap: 0.5rem
@@ -274,10 +275,10 @@ tabloid:
                         height: 3rem
                 page3BodyRightSec3:
                   type: text
-                  className: text3
+                  className: page3BodyRightSec3
                 page3BodyRightSec3Image:
                   type: img
-                  className: image
+                  className: page3BodyRightSec3Image
                   css:
                     width: 2in
                     height: 2in
@@ -306,10 +307,13 @@ tabloid:
           children:
             page4HeaderImage:
               type: img
-              className: image
+              className: page4HeaderImage
               css:
                 height: 1.5in
                 flex: 0 1 2.7in
+                backgroundPosition: center
+                backgroundSize: cover
+                backgroundRepeat: no-repeat
             page4HeaderText:
               type: div
               css:
@@ -335,6 +339,7 @@ tabloid:
                     fontSize: 1.5rem
         page4Body:
           type: div
+          className: page4Body
           css:
             display: flex
             flexDirection: column
@@ -358,7 +363,7 @@ tabloid:
                   children: 
                     page4BodySec1LeftImage:
                       type: img
-                      className: image
+                      className: page4BodySec1LeftImage
                     leftImagePrice:
                       type: text
                       css:
@@ -370,6 +375,7 @@ tabloid:
                         position: absolute
                     page4BodySec1LeftText:
                       type: text
+                      className: page4BodySec1LeftText
                       css:
                         textAlign: center
                         border: 2px solid black
@@ -382,7 +388,7 @@ tabloid:
                   children: 
                     page4BodySec1RightImage:
                       type: img
-                      className: image
+                      className: page4BodySec1RightImage
                     rightImagePrice:
                       type: text
                       css:
@@ -394,6 +400,7 @@ tabloid:
                         position: absolute
                     page4BodySec1RightText:
                       type: text
+                      className: page4BodySec1RightText
                       css:
                         textAlign: center
                         border: 2px solid black
@@ -414,7 +421,7 @@ tabloid:
                   children: 
                     page4BodySec2LeftImage:
                       type: img
-                      className: image 
+                      className: page4BodySec2LeftImage 
                     leftImagePrice:
                       type: text
                       css:
@@ -426,6 +433,7 @@ tabloid:
                         position: absolute
                     page4BodySec2LeftText:
                       type: text
+                      className: page4BodySec2LeftText
                       css:
                         textAlign: center
                         border: 2px solid black
@@ -442,6 +450,7 @@ tabloid:
                   children: 
                     page4BodySec2RightBox1:
                       type: div
+                      className: page4BodySec2RightBox1
                       css:
                         border: 2px solid black
                         boxShadow: '#888888 1.95px 1.95px 2.6px'
@@ -453,6 +462,7 @@ tabloid:
                           type: text
                     page4BodySec2RightBox2:
                       type: div
+                      className: page4BodySec2RightBox2
                       css:
                         border: 2px solid black
                         boxShadow: '#888888 1.95px 1.95px 2.6px'
@@ -464,6 +474,7 @@ tabloid:
                           type: text
             page4BodySec3:
               type: div
+              className: page4BodySec3
               css:
                 display: flex
                 flexWrap: wrap
@@ -479,13 +490,14 @@ tabloid:
                   children: 
                     page4BodySec3LeftText1:
                       type: text
+                      className: page4BodySec3LeftText1
                       css:
                         border: 3px solid brown
                         fontWeight: 600
                         padding: 1rem
                     page4BodySec3LeftImage:
                       type: img
-                      className: image
+                      className: page4BodySec3LeftImage
                       css:
                         marginTop: 20px
                     page4BodySec3LeftText:
@@ -498,16 +510,21 @@ tabloid:
                       children: 
                         sec3LeftText1:
                           type: text
+                          className: sec3LeftText1
                         sec3LeftText2:
                           type: text
+                          className: sec3LeftText2
                           css:
                             fontWeight: 600
                         sec3LeftText3:
                           type: text
+                          className: sec3LeftText3
                         sec3LeftText4:
                           type: text
+                          className: sec3LeftText4
                         sec3LeftText5:
                           type: text
+                          className: sec3LeftText5
                 page4BodySec3Right: 
                   type: div
                   css:
@@ -518,7 +535,7 @@ tabloid:
                   children: 
                     page4BodySec3RightText:
                       type: text
-                      className: text2
+                      className: page4BodySec3RightText
                     page4BodySec3RightFooter:
                       type: div
                       css:
@@ -529,6 +546,7 @@ tabloid:
                       children: 
                         page4BodySec3RightFooterText:
                           type: text
+                          className: page4BodySec3RightFooterText
                         page4BodySec3RightFooterImage:
                           type: img
                           className: image
@@ -560,12 +578,16 @@ tabloid:
           children:
             page5HeaderImage:
               type: img
-              className: image
+              className: page5HeaderImage
               css:
                 height: 1.5in
                 flex: 0 1 2.7in
+                backgroundPosition: center
+                backgroundSize: cover
+                backgroundRepeat: no-repeat
             page5HeaderText:
               type: text
+              className: page5HeaderText
               css:  
                 color: '#024467'
                 fontWeight: 600
@@ -598,11 +620,12 @@ tabloid:
                   children:
                     page5BodySec1LeftIamge:
                       type: img
-                      className: image
+                      className: page5BodySec1LeftIamge
                       css: 
                         boxShadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px
                     page5BodySec1LeftText:
                       type: text
+                      className: page5BodySec1LeftText
                       css:
                         background: 'linear-gradient(to bottom right, #00283E, #004467)'
                         color: '#fff'
@@ -620,11 +643,12 @@ tabloid:
                   children:
                     page5BodySec1RightIamge:
                       type: img
-                      className: image
+                      className: page5BodySec1RightIamge
                       css:
                         boxShadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px
                     page5BodySec1RightText:
                       type: text
+                      className: page5BodySec1RightText
                       css:
                         background: 'linear-gradient(to bottom right, #00283E, #004467)'
                         color: '#fff'
@@ -650,11 +674,12 @@ tabloid:
                   children:
                     page5BodySec2LeftImage:
                       type: img
-                      className: image
+                      className: page5BodySec2LeftImage
                       css:        
                         boxShadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px
                     page5BodySec2LeftText:
                       type: text
+                      className: page5BodySec2LeftText
                       css:
                         background: 'linear-gradient(to bottom right, #00283E, #004467)'
                         color: '#fff'
@@ -665,6 +690,7 @@ tabloid:
                         boxShadow: rgba(0, 0, 0, 0.24) 0px 3px 8px
                 page5BodySec2Right:
                   type: text
+                  className: page5BodySec2Right
                   css:
                     background: 'linear-gradient(to bottom right, #00283E, #004467)'
                     color: '#fff'
@@ -685,6 +711,7 @@ tabloid:
               children: 
                 page5BodySec3Left:
                   type: text
+                  className: page5BodySec3Left
                   css:
                     background: 'linear-gradient(to bottom right, #00283E, #004467)'
                     color: '#fff'
@@ -704,11 +731,12 @@ tabloid:
                   children:
                     page5BodySec3RightImage:
                       type: img
-                      className: image
+                      className: page5BodySec3RightImage
                       css:                       
                         boxShadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px
                     page5BodySec3RightText:
                       type: text
+                      className: page5BodySec3RightText
                       css:
                         background: 'linear-gradient(to bottom right, #00283E, #004467)'
                         color: '#fff'
@@ -742,12 +770,16 @@ tabloid:
           children:
             page6HeaderImage:
               type: img
-              className: image
+              className: page6HeaderImage
               css:
                 height: 1.5in
                 flex: 0 1 2.6in
+                backgroundPosition: center
+                backgroundSize: cover
+                backgroundRepeat: no-repeat
             page6HeaderText:
               type: text
+              className: page6HeaderText
               css:
                 textAlign: center
                 color: '#fff'
@@ -773,7 +805,7 @@ tabloid:
               children:
                 page6BodySec1Image:
                   type: img
-                  className: image
+                  className: page6BodySec1Image
                   css:                   
                     boxShadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset
                 page6BodySec1Text:
@@ -801,7 +833,7 @@ tabloid:
                     position: relative
                 page6BodySec2Image:
                   type: img
-                  className: image
+                  className: page6BodySec2Image
                   css:             
                     boxShadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset
             page6BodySec3:
@@ -815,7 +847,7 @@ tabloid:
               children:
                 page6BodySec3Image:
                   type: img
-                  className: image
+                  className: page6BodySec3Image
                   css:                   
                     boxShadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset
                 page6BodySec3Text:
@@ -843,7 +875,7 @@ tabloid:
                     position: relative
                 page6BodySec4Image:
                   type: img
-                  className: image
+                  className: page6BodySec4Image
                   css:   
                     boxShadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset
     page7:
@@ -871,6 +903,7 @@ tabloid:
           children:
             page7HeaderText:
               type: text
+              className: page7HeaderText
               css:
                 textAlign: center
                 padding: 2rem 1rem
@@ -919,6 +952,7 @@ tabloid:
               children:
                 page7BodySec1Right:
                   type: div
+                  className: page7BodySec1Right
                   css:
                     display: flex
                     flex: 1 1 3.5in
@@ -928,11 +962,12 @@ tabloid:
                   children:
                     page7BodySec1RightText:
                       type: text
+                      className: page7BodySec1RightText
                       css:                       
                         textIndent: 0
                     page7BodySec1RightImage: 
                       type: img
-                      className: image
+                      className: page7BodySec1RightImage
                 page7BodySec1Left:
                   type: div
                   css:
@@ -942,6 +977,7 @@ tabloid:
                   children: 
                     page7BodySec1LeftText1: 
                       type: text
+                      className: page7BodySec1LeftText1
                       css:                       
                         lineHeight: 1.2
                     page7BodySec1LeftImage:
@@ -952,6 +988,7 @@ tabloid:
                         height: 0.9in
                     page7BodySec1LeftText2:
                       type: text
+                      className: page7BodySec1LeftText2
                       css:
                         lineHeight: 1.4
             page7BodySec2:
@@ -966,13 +1003,15 @@ tabloid:
               children: 
                 page7BodySec2Text1:
                   type: text
+                  className: page7BodySec2Text1
                 page7BodySec2Text2:
                   type: text
+                  className: page7BodySec2Text2
                   css:
                     fontWeight: 600
                 page7BodySec2Text3:
                   type: text
-                  className: text2
+                  className: page7BodySec2Text3
                   css:
                     opacity: 0.9
                 page7BodySec2Footer:
@@ -987,6 +1026,7 @@ tabloid:
                   children:
                     page7BodySec2FooterLeftText:
                       type: text
+                      className: page7BodySec2FooterLeftText
                       css:
                         flex: 1 1 3in
                         fontWeight: 500
