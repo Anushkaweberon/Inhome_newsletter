@@ -760,7 +760,7 @@ tabloid:
             justifyContent: center            
             textAlign: center
             gap: 2rem
-            padding: 2rem 1.5rem
+            padding: 2.1rem 1.5rem
           children:
             page6BodySec1:
               type: div
