@@ -44,7 +44,7 @@ ul li{
 .page1BodyRightText{
     -webkit-columns: 2;
     padding: 2rem;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 .page1BodyRightText p{
     margin-top: 20px;
@@ -55,32 +55,33 @@ ul li{
 .text p{
     margin-top: 20px;
 }
+.page1HeaderBottom{font-size: 1.1rem;}
+.page1BodyLeftText2{font-size: 1.1rem;}
 .page3BodyLeftText{
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
-.page3BodyLeftText p{margin-top: 25px;}
+.page3BodyLeftText p{margin-top: 10px;}
 .text2 p{
     margin-top: 25px;
 }
 .page3BodyRightSec1{
-    font-size: 1.3rem;
-    line-height: 1.2;
+    font-size: 1rem;
+    /* line-height: 1.2; */
 }
 .page3BodyRightSec1 p{margin-top: 25px;}
 .page3BodyRightSec3{
-    margin-top: 50px;
-    font-size: 1.3rem;
-    line-height: 1.2;
+    
+    font-size: 1rem;
+    /* line-height: 1.2; */
 }
 .page3BodyRightSec3 p{margin-top: 10px;}
 .page3BodyRightSec3Image{
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 50px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
-.page3BodyRightSec2{margin-top: 50px;}
 .text3 p{
     margin-top: 10px;
 }
@@ -92,6 +93,7 @@ a{
     border-top-right-radius: 10px;
     rotate: -5deg;
 }
+.RightSec2Text{font-size: 1rem;}
 .page4BodySec1LeftImage{width: 3.1in;height: 1.7in; background-position: center;
     background-size: cover;
     background-repeat: no-repeat;}
@@ -230,9 +232,9 @@ a{
     }
 }
 .page2BodyText p{
-    margin-top: 25px;
+    margin-top: 10px;
 }
-
+.page2BodyText{font-size: 1rem;}
 @media print{
     .page{
         justify-content: start;
@@ -240,12 +242,24 @@ a{
         width: 11in;
         border: none;
     }
+    .page1HeaderBottom{font-size: 1.7rem;}
     .page1BodyRightText{font-size: 1.354rem;}
+    .page1BodyLeftText2{font-size: 1.7rem;}
     .page1BodyRightText p{margin-top: 26.8px;}
     .page2BodyText p{margin-top: 21px; font-size: 1.3rem;}
     .page4BodySec1LeftImage{width: 4.5in;height: 3in;}
     .page4BodySec1RightImage{width: 4.5in;height: 3in;}
     .page4BodySec1LeftText{font-size: 1.3rem;}
+    .page3BodyRightSec1{
+        font-size: 1.3rem;
+        line-height: 1.2;
+    }
+    .page3BodyRightSec3Image{margin-top: 100px;}
+    .page3BodyRightSec2{margin-top: 50px;}
+    .page3BodyRightSec3{font-size: 1.3rem;line-height: 1.2;margin-top: 50px;}
+    .page3BodyLeftText{font-size: 1.3rem;}
+    .page3BodyLeftText p{margin-top: 25px;}
+    .RightSec2Text{font-size: 1.3rem;}
     .page4BodySec1RightText{font-size: 1.3rem;}
     .page4BodySec2LeftImage{width: 5in;height: 2in;}
     .page4BodySec2LeftText{font-size: 1.3rem;}

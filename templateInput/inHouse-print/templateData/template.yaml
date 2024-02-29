@@ -70,10 +70,10 @@ tabloidParent:
                     height: 1in
             page1HeaderBottom:
               type: text
+              className: page1HeaderBottom
               css:
                 textAlign: center
                 backgroundColor: rgb(38, 38, 38)
-                fontSize: 1.7rem
                 padding: 1rem
                 color: "#fff"
                 fontFamily: IBM
@@ -129,8 +129,8 @@ tabloidParent:
                     fontWeight: 600
                 page1BodyLeftText2:
                   type: text
+                  className: page1BodyLeftText2
                   css:
-                    fontSize: 1.7rem
                     color: '#fff'
                     fontWeight: 600
             page1BodyRight:
@@ -264,9 +264,9 @@ tabloidParent:
                   children: 
                     RightSec2Text:
                       type: text
+                      className: RightSec2Text
                       css:
                         fontWeight: 600
-                        fontSize: 1.3rem
                     RightSec2Image:
                       type: img
                       className: image
