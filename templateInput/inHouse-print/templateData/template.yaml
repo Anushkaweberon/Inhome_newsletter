@@ -1,6 +1,6 @@
 tabloidParent:
   type: div
-  className: tabloid
+  className: tabloidParent
   css:
     display: flex
     flexDirection: row
