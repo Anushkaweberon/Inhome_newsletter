@@ -43,7 +43,7 @@ ul li{
 }
 .page1BodyRightText{
     -webkit-columns: 2;
-    padding: 2rem;
+    padding: 0.98rem 1.8rem;
     font-size: 1rem;
 }
 .page1BodyRightText p{
@@ -55,119 +55,52 @@ ul li{
 .text p{
     margin-top: 20px;
 }
-.page1HeaderBottom{font-size: 1.1rem;}
-.page1BodyLeftText2{font-size: 1.1rem;}
-.page3BodyLeftText{
+#page3BodyLeftText{
     font-size: 1rem;
 }
-.page3BodyLeftText p{margin-top: 10px;}
 .text2 p{
-    margin-top: 25px;
+    margin-top: 10px;
 }
-.page3BodyRightSec1{
+#page3BodyRightSec1{
     font-size: 1rem;
-    /* line-height: 1.2; */
 }
-.page3BodyRightSec1 p{margin-top: 25px;}
-.page3BodyRightSec3{
-    
-    font-size: 1rem;
-    /* line-height: 1.2; */
-}
-.page3BodyRightSec3 p{margin-top: 10px;}
-.page3BodyRightSec3Image{
-    margin: 0 auto;
+#page3BodyRightSec3{
     margin-top: 50px;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    font-size: 1rem;
 }
+#page3BodyRightSec3Image{
+    margin: 0 auto;
+    margin-top: 39.3px;
+}
+#page3BodyRightSec2{margin-top: 34px;}
 .text3 p{
     margin-top: 10px;
 }
 a{
     text-decoration: none;
 }
-.page4BodySec3LeftText1{
+#page4BodySec3LeftText1{
     border-bottom-left-radius: 10px;
     border-top-right-radius: 10px;
     rotate: -5deg;
 }
-.RightSec2Text{font-size: 1rem;}
-.page4BodySec1LeftImage{width: 3.1in;height: 1.7in; background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page4BodySec1RightImage{width: 3.1in;height: 1.7in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page4BodySec1LeftText{font-size: 0.9rem;}
-.page4BodySec1RightText{font-size: 0.9rem;}
-.page4BodySec2LeftImage{width: 3.1in;height: 1.7in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page4BodySec2LeftText{font-size: 0.9rem;}
-.page4BodySec2RightBox1{font-size: 1.2rem;}
-.page4BodySec2RightBox2{font-size: 1.2rem;}
-.page4BodySec3LeftText1{font-size: 2rem;}
-.page4BodySec3LeftImage{width: 4in;height: 1.5in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.sec3LeftText1{font-size: 1.2rem;}
-.sec3LeftText2{font-size: 1.6rem;}
-.sec3LeftText3{font-size: 1rem;}
-.sec3LeftText4{font-size: 2rem;}
-.sec3LeftText5{font-size: 0.9rem;}
-.page4BodySec3RightText{font-size: 1.2rem;}
-.page4BodySec3RightText p{margin-top: 25px;}
-.page4BodySec3RightFooterText{font-size: 1.1rem;}
-.page4Body{gap: 2.5rem}
-.page5HeaderText{font-size: 1.3rem;}
-.page5BodySec1LeftText{font-size: 1.2rem;}
-.page5BodySec1RightText{font-size: 1rem;}
-.page5BodySec1LeftIamge{height: 2.3in; width: 3.6in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page5BodySec1RightIamge{height: 2.3in;width: 3.6in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page5BodySec2LeftImage{height: 2.7in;width: 4.1in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page5BodySec2LeftText{font-size: 1.2rem;}
-.page5BodySec2Right{font-size: 1.1rem;}
-.page5BodySec3RightImage{height: 2.7in;width: 5in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page5BodySec3RightText{font-size: 1.2rem;top: -30px}
-.page5BodySec3Left{font-size: 1.1rem;}
-.page6HeaderText{font-size: 1.9rem;}
-.page6BodySec1Image{width: 3.9in;height: 2.2in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page6BodySec2Image{width: 3.9in;height: 2.7in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page6BodySec3Image{width: 3.9in;height: 2.2in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page6BodySec4Image{width: 4.1in;height: 2.7in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
+#page4Body{gap:2.4rem; padding: 2rem 2rem 3rem}
+#page4BodySec3Left{gap: 1.5rem;}
+#page5Body{ padding: 2rem 1rem 3.6rem; gap:1rem;}
+#page6Body{gap: 2.2rem;padding: 1.5rem 1rem 1.8rem;}
 .leftArrow{padding: 1rem;line-height: 1.3}
 .rightArrow{padding: 1rem;line-height: 1.3}
-.page7HeaderText{font-size: 2rem;}
-.page7BodySec1RightText{font-size: 1.1rem}
-.page7BodySec1RightImage{width: 3.5in;height: 3in;background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;}
-.page7BodySec1LeftText1{font-size: 1rem}
-.page7BodySec1LeftText2{font-size: 1rem;}
-.page7BodySec1Right{gap: 2rem}
-.page7BodySec2Text1{font-size: 1.7rem;}
-.page7BodySec2Text2{font-size: 1.4rem;}
-.page7BodySec2Text3{font-size: 1.2rem;}
-.page7BodySec2Text3 p{margin-top: 25px;}
-.page7BodySec2FooterLeftText{font-size: 1.1rem;}
+#page7BodySec1RightText{font-size: 1.1rem}
+#page7BodySec1Right{gap: 2rem}
+#page7BodySec1LeftText1{font-size: 1rem}
+#page7BodySec1LeftText2{font-size: 1rem;}
+#page6BodySec1Image{width: 3.9in;height: 2.2in}
+#page6BodySec2Image{width: 3.9in;height: 2.7in}
+#page6BodySec3Image{width: 3.9in;height: 2.2in}
+#page6BodySec4Image{width: 4.1in;height: 2.7in}
+#page5BodySec3RightImage{height: 2.7in;width: 5in}
+#page5BodySec3RightText{top: -30px}
+#page5BodySec2LeftImage{height: 2.7in;width: 4.1in}
 .leftArrow:after{
     content: " ";
   position: absolute;
@@ -193,7 +126,7 @@ a{
         width: 100%;
         border: none;
     }
-    .tabloidParent{
+    .a4parent{
       width: 100%;
     }    
 }
@@ -209,16 +142,16 @@ a{
     }
 }
 @media all and (max-width: 690px){
-    .page4HeaderImage{
+    #page4HeaderImage{
         display: none;
     }
-    .page5HeaderImage{
+    #page5HeaderImage{
         display: none;
     }
-    .page6HeaderImage{
+    #page6HeaderImage{
         display: none;
     }
-    .page5HeaderText{
+    #page5HeaderText{
         padding: 2rem;
         font-size: 2rem;
     }
@@ -231,83 +164,42 @@ a{
         border: none;
     }
 }
-.page2BodyText p{
-    margin-top: 10px;
-}
-.page2BodyText{font-size: 1rem;}
+
 @media print{
+    .a4parent{
+        /* justify-content: start; */
+        width: 8.5in
+    }
     .page{
+        /* max-height: 11in; */
+        border: none;   
+    }
+    .tabloidParent{
+        width:17in;
         justify-content: start;
-        max-height: 17in;
-        width: 11in;
-        border: none;
     }
-    .page1HeaderBottom{font-size: 1.7rem;}
-    .page1BodyRightText{font-size: 1.354rem;}
-    .page1BodyLeftText2{font-size: 1.7rem;}
-    .page1BodyRightText p{margin-top: 26.8px;}
-    .page2BodyText p{margin-top: 21px; font-size: 1.3rem;}
-    .page4BodySec1LeftImage{width: 4.5in;height: 3in;}
-    .page4BodySec1RightImage{width: 4.5in;height: 3in;}
-    .page4BodySec1LeftText{font-size: 1.3rem;}
-    .page3BodyRightSec1{
-        font-size: 1.3rem;
-        line-height: 1.2;
-    }
-    .page3BodyRightSec3Image{margin-top: 100px;}
-    .page3BodyRightSec2{margin-top: 50px;}
-    .page3BodyRightSec3{font-size: 1.3rem;line-height: 1.2;margin-top: 50px;}
-    .page3BodyLeftText{font-size: 1.3rem;}
-    .page3BodyLeftText p{margin-top: 25px;}
-    .RightSec2Text{font-size: 1.3rem;}
-    .page4BodySec1RightText{font-size: 1.3rem;}
-    .page4BodySec2LeftImage{width: 5in;height: 2in;}
-    .page4BodySec2LeftText{font-size: 1.3rem;}
-    .page4BodySec2RightBox1{font-size: 1.4rem;}
-    .page4BodySec2RightBox2{font-size: 1.4rem;}
-    .page4BodySec3LeftText1{font-size: 3rem;margin-bottom: 20px;}
-    .page4BodySec3LeftImage{width: 5in;height: 2in;}
-    .page4BodySec3{gap: 1rem}
-    .sec3LeftText1{font-size: 1.5rem;}
-    .sec3LeftText2{font-size: 2.1rem;}
-    .sec3LeftText3{font-size: 1.5rem;}
-    .sec3LeftText4{font-size: 2.5rem;}
-    .sec3LeftText5{font-size: 1.4rem;}
-    .page4BodySec3RightText{font-size: 1.7rem;}
-    .page4BodySec3RightFooterText{font-size: 1.5rem;}
-    .page4Body{gap: 4rem}
-    .page5HeaderText{font-size: 2rem;}
-    .page5BodySec1LeftText{font-size: 1.5rem;}
-    .page5BodySec1RightText{font-size: 1.4rem;}
-    .page5BodySec1LeftIamge{height: 3.5in; width: 5in}
-    .page5BodySec1RightIamge{height: 3.5in;width: 5in}
-    .page5BodySec2LeftImage{height: 4in;width: 6in}
-    .page5BodySec2LeftText{font-size: 1.5rem;}
-    .page5BodySec2Right{font-size: 1.4rem;}
-    .page5BodySec3RightImage{height: 3.8in;width: 7in}
-    .page5BodySec3RightText{font-size: 1.5rem;}
-    .page5BodySec3Left{font-size: 1.4rem;}
-    .page6HeaderText{font-size: 2.8rem;}
-    .page6BodySec1Image{width: 6in;height: 3.4in}
-    #page6BodySec1Text{font-size: 1.4rem;}
-    .page6BodySec2Image{width: 5.2in;height: 3.5in}
-    #page6BodySec2Text{font-size: 1.4rem;}
-    .page6BodySec3Image{width: 5.5in;height:3.2in}
-    #page6BodySec3Text{font-size: 1.4rem;}
-    .page6BodySec4Image{width: 5.4in;height: 3.4in}
-    #page6BodySec4Text{font-size: 1.4rem;}
-    .page7HeaderText{font-size: 2.5rem;}
-    .page7BodySec1RightText{font-size: 1.7rem}
-    .page7BodySec1RightImage{width: 4in;height: 3.5in}
-    .page7BodySec1LeftText1{font-size: 1.5rem}
-    .page7BodySec1LeftText2{font-size: 1.5rem;}
-    .page7BodySec2Text1{font-size: 2.2rem;}
-    .page7BodySec2Text2{font-size: 1.9rem;}
-    .page7BodySec2Text3{font-size: 1.6rem;}
-    .page7BodySec2FooterLeftText{font-size: 1.5rem;}
-
-
-
-
-
+    /* .page1BodyRightText{font-size: 0.9rem;}
+    .page1BodyRightText p{margin-top: 13.5px;}
+    #page2BodyText{font-size: 0.9rem;}
+    #page3BodyRightSec2{margin-top: 10px;}
+    #page3BodyLeftText p{ margin-top: 3px;}
+    #page3BodyRightSec1{ font-size: 0.95rem;}
+    #page3BodyRightSec3{ margin-top: 10px; font-size: 0.95rem;}
+    #page3BodyRightSec3Image{ margin-top: 0px;}
+    #page4Body{gap:0; padding: 0.3rem 1rem}
+    #page4BodySec3Left{gap: 0.5rem;}
+    #page4BodySec3LeftText1{rotate: 0deg;}
+    #page5Body{ padding: 0rem; gap:0rem;}
+    #page5BodySec3RightImage{height: 2.4in;width: 5in}
+    #page5BodySec3RightText{top: -40px}
+    #page5BodySec2LeftImage{height: 2.4in;width: 4.1in}
+    #page6Body{gap: 1rem;padding: 1rem;}
+    #page6BodySec1Image{width: 3.5in;height: 2in}
+    #page6BodySec2Image{width: 3.5in;height: 2in}
+    #page6BodySec3Image{width: 3.5in;height: 2in}
+    #page6BodySec4Image{width: 3.5in;height: 2in}
+    #page7BodySec1RightText{font-size: 0.9rem}
+    #page7BodySec1Right{gap: 1rem}
+    #page7BodySec1LeftText1{font-size: 0.9rem}
+    #page7BodySec1LeftText2{font-size: 0.9rem;} */
 }

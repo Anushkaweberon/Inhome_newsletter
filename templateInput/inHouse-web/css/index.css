@@ -166,10 +166,17 @@ a{
 }
 
 @media print{
-    .page{
-        justify-content: start;
-        max-height: 11in;
+    .a4parent{
+        /* justify-content: start; */
         width: 8.5in
+    }
+    .page{
+        max-height: 11in;
+        border: none;   
+    }
+    .tabloidParent{
+        width:17in;
+        justify-content: start;
     }
     .page1BodyRightText{font-size: 0.9rem;}
     .page1BodyRightText p{margin-top: 13.5px;}
